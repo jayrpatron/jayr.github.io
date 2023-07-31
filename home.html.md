@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="banner">
-        <img src="/images/banner1.jpg" alt="Mayon volcano in backdrop">
+        <img src="/banner1.jpg" alt="Mayon volcano in backdrop">
     </div>
     <div class="welcome-container">
         <h1>Welcome to My Website!</h1>
